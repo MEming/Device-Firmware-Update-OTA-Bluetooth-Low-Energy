@@ -1,0 +1,80 @@
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\DFU.Android.dll
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\DFU.Android.pdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\com.companyname.DFU.apk
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\com.companyname.DFU-Signed.apk
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\DFU.Android.csproj.CoreCompileInputs.cache
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\DFU.Droid.App.xaml.g.cs
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\DFU.Droid.MainPage.xaml.g.cs
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\DFU.Android.dll
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\DFU.Android.pdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\bin\com.companyname.DFU.apk
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\values\styles.xml
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\bt_off.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\bt_on.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\bt_state.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\ball_gray.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\ball_color.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\bt_signal_1.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\bt_signal_2.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\bt_signal_3.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\bt_signal_4.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\res\drawable\ballx.png
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\R.cs.flag
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\uploadflags.txt
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\DFU.Android.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\Plugin.BLE.Abstractions.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\Plugin.BLE.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\assets\DFU.Android.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\assets\Plugin.BLE.Abstractions.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\assets\Plugin.BLE.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\obj\Debug\DFU.Android.csprojResolveAssemblyReference.cache
+C:\Users\Emin BEY\source\repos\DFU\DFU\DFU.Android\bin\Debug\DFU.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Plugin.BLE.Abstractions.dll.mdb
+bin\Debug\Plugin.BLE.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\DFU.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.BLE.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.BLE.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

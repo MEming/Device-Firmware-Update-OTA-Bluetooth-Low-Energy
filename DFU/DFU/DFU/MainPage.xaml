@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DFU"
+             x:Class="DFU.MainPage">
+
+    <StackLayout BackgroundColor="#253238">
+
+        <StackLayout VerticalOptions="Start"  >
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" >
+            <Label TextColor="White" Text="Updating device firmware" Margin="0,0,0,5" HorizontalOptions="Center" ></Label>
+            <Label x:Name="bootYuzdesi" TextColor="White" Text="%48" HorizontalOptions="Center" ></Label>
+            <ProgressBar Margin="10,10,10,10" x:Name="bootPB"  IsVisible="true" Progress=".5" HorizontalOptions="FillAndExpand"></ProgressBar>
+            <Label x:Name="bootInfo" TextColor="White" Text="Preparing" HorizontalOptions="Center" ></Label>
+            <Button Margin="0,50,0,0" Text="Start" TextColor="Salmon" HorizontalOptions="Center" Clicked="StartBoot" BorderColor="Salmon" BorderRadius="60" BorderWidth="1" WidthRequest="120" HeightRequest="120"  BackgroundColor="Transparent" ></Button>
+            <Button Text="Send" Clicked="SendVal" ></Button>
+        </StackLayout>
+        <StackLayout VerticalOptions="End" Orientation="Vertical" >
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+
+                <Grid>
+                    <Button x:Name="MyBut" BorderRadius="50" HeightRequest="100" WidthRequest="100"  BorderColor="Red" BackgroundColor="White" Opacity="0.5"></Button>
+                    <Image x:Name="BtImage" Source="bt_state" HeightRequest="70" WidthRequest="70" VerticalOptions="Center" ></Image>
+
+                </Grid>
+
+            </StackLayout>
+            <Label  Text="Connecting" TextColor="Salmon" Margin="0,0,0,25" HorizontalOptions="Center" ></Label>
+
+        </StackLayout>
+
+    </StackLayout>
+
+
+</ContentPage>
