@@ -1,10 +1,10 @@
 # Device-Firmware-Update-Over-the-Air
 
- xamarin pcl based over the air device firmware update service for Atmega series
+Xamarin PCL based over the air device firmware update service for Atmega series
  
- this repository allows atmega328p chip update firmware by IOS and Android. 
+This repository allows atmega328p chip update firmware by IOS and Android. 
  
- using HM-10 bluetooth low energy module (ble with the same characteristics and service as hm-10 can be used) 
+Using HM-10 bluetooth low energy module (ble with the same characteristics and service as hm-10 can be used) 
 # SETUP
 
 ## HM-10 BLE Module configuration
