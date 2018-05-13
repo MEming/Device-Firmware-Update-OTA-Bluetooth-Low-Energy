@@ -11,7 +11,7 @@
 
 Serial converter used for Bluetooth module configuration
 
-Sending AT commands to HM-10 from any serial monitor program
+Send AT commands to HM-10 from any serial monitor program
 
 * AT+BAUD4 //115200 baud rate
 * AT+MODE2 //to use the io pin
