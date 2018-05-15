@@ -2,8 +2,8 @@
 
 Xamarin PCL based over the air device firmware update service for Atmega series
  
-This repository allows atmega328p chip update firmware by IOS and Android. 
- 
+This repository allows atmega328p chips to update its firmware by using HM-10 BLE module with IOS or Android.
+
 Using HM-10 bluetooth low energy module (ble with the same characteristics and service as hm-10 can be used) 
 # SETUP
 
@@ -31,11 +31,11 @@ for Android ..DFU\DFU\DFU.Android\Assets
 
 ![b32](https://user-images.githubusercontent.com/18028933/39961121-1ec424da-5638-11e8-9b58-26767f99f988.png)
 
-## Create the Circuit Shown Below
+## Create the Circuit as Shown Below
 
 ![h_1](https://user-images.githubusercontent.com/18028933/39955746-1b2469e4-55dd-11e8-8578-43fef2bacea5.png)
 
-## Your Bluetooth Module Mac Adress define here;
+## Define your Bluetooth Module's Mac Adress here;
 
 '''
 
